@@ -1,5 +1,5 @@
 ## (Unfinished)  
-Simple interactive game inspired by Valve's Portal.  
+Simple interactive game made in Unity, inspired by Valve's Portal.  
 Player has to figure out, how to use environment elements to open doors to next room.
 
 
